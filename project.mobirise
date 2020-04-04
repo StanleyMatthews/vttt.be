@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "siteUrl": "https://www.vttt.be",
+    "siteUrl": "https://vttt.be",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "noImageResize": null,
@@ -62,7 +62,7 @@
     "lazyType": "nothing",
     "cookiesAlert": false,
     "pwa-switcher": false,
-    "imageResize": false
+    "imageResize": true
   },
   "pages": {
     "index.html": {
