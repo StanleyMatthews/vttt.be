@@ -62,9 +62,7 @@
     "lazyType": "nothing",
     "cookiesAlert": false,
     "pwa-switcher": false,
-    "imageResize": true,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "imageResize": true
   },
   "pages": {
     "index.html": {
