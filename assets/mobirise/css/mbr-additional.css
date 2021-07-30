@@ -1142,19 +1142,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rw8Vlp91I1 {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rw8Vlp91I1 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rw8Vlp91I1 .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rwbgwPOeD2 {
   background-image: url("../../../assets/images/p1020041-kopie2-2000x1365.jpg");
 }
