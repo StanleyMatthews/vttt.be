@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#395599",
         "mainFont": "Rubik",
-        "display1Font": "Rye",
+        "display1Font": "Rubik",
         "display1Size": "3.4",
         "display2Font": "Rye",
         "display2Size": "2.2",
@@ -64,7 +64,7 @@
     "pwa-switcher": false,
     "imageResize": true,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "lqiqm0hn4a"
+    "mbrsiteDomain": "208lqr31ux"
   },
   "pages": {
     "index.html": {
@@ -515,9 +515,6 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "text-align": "center"
-            },
-            "H3": {
               "text-align": "center"
             }
           },

@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Rye', display;
   font-size: 3.4rem;
   font-display: swap;
 }
@@ -1022,6 +1022,9 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/p1020251-2000x1382.jpg");
 }
 .cid-rw8UYaBOW9 H1 {
+  text-align: center;
+}
+.cid-rw8UYaBOW9 H3 {
   text-align: center;
 }
 .cid-rQ2p4Vc7GD {
