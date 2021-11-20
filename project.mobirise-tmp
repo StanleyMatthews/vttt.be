@@ -64,7 +64,9 @@
     "pwa-switcher": false,
     "imageResize": true,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "lqiqm0hn4a"
+    "mbrsiteDomain": "lqiqm0hn4a",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
