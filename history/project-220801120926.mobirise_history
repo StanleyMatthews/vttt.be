@@ -63,7 +63,7 @@
     "cookiesAlert": false,
     "pwa-switcher": false,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "lqiqm0hn4a"
   },
   "pages": {
