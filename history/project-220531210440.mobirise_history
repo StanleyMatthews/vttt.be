@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Lady V & The Tennessee Trees - Country Coverband",
+    "screenshot": "screenshot.png",
+    "versionFirst": "5.4.1",
+    "siteFonts": [],
+    "theme": {},
+    "favicon": false,
+    "mbrsiteDomain": "pq3n3jpw4p",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "currentPage": "index.html",
+    "versionPublish": "5.4.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
