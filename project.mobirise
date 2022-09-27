@@ -64,9 +64,7 @@
     "pwa-switcher": false,
     "imageResize": true,
     "publishChangesOnly": false,
-    "mbrsiteDomain": "lqiqm0hn4a",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "mbrsiteDomain": "lqiqm0hn4a"
   },
   "pages": {
     "index.html": {
@@ -887,6 +885,9 @@
               "color": "#efefef"
             },
             ".mbr-text, .mbr-section-btn P": {
+              "text-align": "left"
+            },
+            "P": {
               "text-align": "left"
             }
           },
